@@ -1,51 +1,62 @@
-Hi I'm Yassine 👋
-
-AI Student | Building Practical AI Tools | Guilin University of Electronic Technology
-
----
-
 ## About Me
 
-🎓 2nd year AI student in China, originally from Morocco  
-🤖 Learning by building real projects with LLMs and automation  
-🎯 Goal: Land remote AI/ML work and pursue Master's in Germany  
-📍 Currently in: Guilin, China
+🎓 **AI Student & Builder**
+
+I'm a 2nd-year Artificial Intelligence student at Guilin University of Electronic Technology, currently based in China. Originally from Morocco, I bring a multicultural perspective to problem-solving and a strong drive to build practical AI solutions.
 
 ---
 
-## What I'm Building
+### What I Do
 
-### [Smart Study Notes](https://github.com/yassine1969/smart-study-notes)
-AI-powered tool that turns lecture notes into summaries and quiz questions.
+I believe the best way to learn AI is by **building real projects** that solve real problems. While studying machine learning, deep learning, and natural language processing, I apply concepts immediately through hands-on development.
 
-- **Tech:** Python, Groq API (Llama 3), CLI interface
-- **Why:** I needed a faster way to review English lecture materials
-- **Status:** ✅ Working, actively using it
-
----
-
-## Tech Stack
-
-```
-Python | APIs | LLMs | LangChain (learning)
-```
+**My approach:**
+- 📚 Learn the theory in class
+- 🔧 Build projects that reinforce concepts  
+- 🚀 Ship working tools, not just tutorials
+- 📈 Iterate based on actual usage
 
 ---
 
-## Currently Learning
+### Current Focus
 
-- 🧠 Large Language Models & RAG systems
-- 🔗 API integrations & automation
-- 🇩🇪 German (for Master's applications)
+**Technical Skills:**
+- Python development & API integrations
+- Large Language Models (LLMs) & prompt engineering
+- Retrieval-Augmented Generation (RAG) systems
+- Automation & workflow optimization
+
+**Academic Goals:**
+- Complete Bachelor's in AI with strong project portfolio
+- Pursue Master's degree in Germany (targeting European tech programs)
+- Build industry connections through remote work
+
+**Languages:**
+- Arabic (native)
+- English (fluent)
+- French (conversational)
+- Chinese (learning)
+- German (beginner, preparing for studies)
 
 ---
 
-## Let's Connect
+### Why I Build
 
-- 💼 [LinkedIn](www.linkedin.com/in/yassinehassine1969)
-- 📧 [Email](mailto:yassinehassine1969@gmail.com)
+As an international student in China, I face unique challenges: language barriers, different teaching styles, and the need to process large amounts of English technical content quickly. Instead of just adapting, I **build tools that solve these problems** — not just for me, but potentially for thousands of students in similar situations.
+
+My first project, **Smart Study Notes**, came from this exact need: turning dense lecture materials into digestible summaries and self-test questions using AI.
+
 ---
 
-> *"The best way to learn is by building."*
+### What I'm Looking For
 
-**Open to remote internships and freelance opportunities in AI/ML.**
+- 🤝 **Remote internships** in AI/ML (startups welcome)
+- 💼 **Freelance projects** involving automation or LLM applications
+- 🎓 **Mentorship** from engineers in European AI/tech companies
+- 🌐 **Collaboration** on open-source AI tools for education
+
+---
+
+> *"The gap between learning and doing is where real growth happens. I'm committed to closing that gap, one project at a time."*
+
+**Let's connect if you're working on interesting AI problems or know opportunities for ambitious students.**
