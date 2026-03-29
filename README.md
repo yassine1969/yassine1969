@@ -1,6 +1,6 @@
-Hi, # I'm Yassine 👋
+Hi I'm Yassine 👋
 
-**AI Student | Building Practical AI Tools | Guilin University of Electronic Technology**
+AI Student | Building Practical AI Tools | Guilin University of Electronic Technology**
 
 ---
 
