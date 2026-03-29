@@ -1,16 +1,51 @@
-## Hi there 👋
+Hi, # I'm Yassine 👋
 
-<!--
-**yassine1969/yassine1969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Student | Building Practical AI Tools | Guilin University of Electronic Technology**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+🎓 2nd year AI student in China, originally from Morocco  
+🤖 Learning by building real projects with LLMs and automation  
+🎯 Goal: Land remote AI/ML work and pursue Master's in Germany  
+📍 Currently in: Guilin, China
+
+---
+
+## What I'm Building
+
+### [Smart Study Notes](https://github.com/yassine1969/smart-study-notes)
+AI-powered tool that turns lecture notes into summaries and quiz questions.
+
+- **Tech:** Python, Groq API (Llama 3), CLI interface
+- **Why:** I needed a faster way to review English lecture materials
+- **Status:** ✅ Working, actively using it
+
+---
+
+## Tech Stack
+
+```
+Python | APIs | LLMs | LangChain (learning)
+```
+
+---
+
+## Currently Learning
+
+- 🧠 Large Language Models & RAG systems
+- 🔗 API integrations & automation
+- 🇩🇪 German (for Master's applications)
+
+---
+
+## Let's Connect
+
+- 💼 [LinkedIn](www.linkedin.com/in/yassinehassine1969)
+- 📧 [Email](mailto:yassinehassine1969@gmail.com)
+---
+
+> *"The best way to learn is by building."*
+
+**Open to remote internships and freelance opportunities in AI/ML.**
